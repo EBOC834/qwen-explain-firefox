@@ -8,7 +8,7 @@
 
 Explain links or selected text in Qwen chat with one click. Custom prompt, auto-fill, auto-send, dark mode support.
 
-🔗 **[Install from AMO](https://addons.mozilla.org/firefox/addon/qwen-explain-firefox/)**
+🔗 **[Install from AMO](https://addons.mozilla.org/firefox/addon/qwen-explain/)**
 🔗 **[Download Latest Release](https://github.com/pepeyc7526/qwen-explain-firefox/releases/latest)**  
 🔗 **[Report Issue](https://github.com/pepeyc7526/qwen-explain-firefox/issues)**
 
@@ -25,7 +25,7 @@ Explain links or selected text in Qwen chat with one click. Custom prompt, auto-
 ## 🚀 Quick Start
 
 ### Install from AMO (recommended)
-1. Visit [AMO page](https://addons.mozilla.org/firefox/addon/qwen-explain-firefox/)
+1. Visit [AMO page](https://addons.mozilla.org/firefox/addon/qwen-explain/)
 2. Click **Add to Firefox**
 3. Done. Right-click any link or selection → **Explain in Qwen**
 
