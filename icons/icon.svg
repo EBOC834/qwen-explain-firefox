@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <path d="M64 4A60 60 0 0 0 64 124Z" fill="#FF7139"/>
+  <path d="M64 4A60 60 0 0 1 64 124Z" fill="#2563EB"/>
+  <text x="33" y="69" font-family="system-ui,sans-serif" font-size="48" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="central">?</text>
+  <text x="95" y="69" font-family="system-ui,sans-serif" font-size="48" font-weight="bold" fill="#fff" text-anchor="middle" dominant-baseline="central">!</text>
+  <path d="M64 4V124" stroke="#fff" stroke-width="2" opacity="0.5"/>
+  <circle cx="64" cy="64" r="59" fill="none" stroke="#000" stroke-width="1" opacity="0.1"/>
+</svg>
